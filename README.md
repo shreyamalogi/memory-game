@@ -8,4 +8,4 @@ user replicates the sequence
 If correct board adds another item to the list sequence -- Go to step 2
 If wrong an error sound and the game stops
 
-[Memory game](https://5hre9a.github.io/memory-game/)
+[Tap here to play the game](https://5hre9a.github.io/memory-game/)
